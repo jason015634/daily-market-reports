@@ -1,6 +1,6 @@
 {
   "asof": "2026-06-04",
-  "generated_at": "2026-06-04T11:46:12",
+  "generated_at": "2026-06-04T11:47:45",
   "source": "FinanceDataReader (KRX / Stooq)",
   "note": "검증된 실측 시세. 브리핑 작성 시 이 수치를 변형하지 말 것.",
   "indices": [
@@ -66,11 +66,11 @@
       "symbol": "USD/KRW",
       "unit": "원",
       "date": "2026-06-04",
-      "close": 1528.14,
+      "close": 1527.8,
       "status": "ok",
       "prev_close": 1516.6,
-      "change": 11.54,
-      "change_pct": 0.76
+      "change": 11.2,
+      "change_pct": 0.74
     }
   ],
   "stocks": [
@@ -90,22 +90,22 @@
       "symbol": "000660",
       "unit": "원",
       "date": "2026-06-04",
-      "close": 2294000.0,
+      "close": 2297000.0,
       "status": "ok",
       "prev_close": 2360000.0,
-      "change": -66000.0,
-      "change_pct": -2.8
+      "change": -63000.0,
+      "change_pct": -2.67
     },
     {
       "name": "LG에너지솔루션",
       "symbol": "373220",
       "unit": "원",
       "date": "2026-06-04",
-      "close": 420000.0,
+      "close": 419500.0,
       "status": "ok",
       "prev_close": 442500.0,
-      "change": -22500.0,
-      "change_pct": -5.08
+      "change": -23000.0,
+      "change_pct": -5.2
     }
   ]
 }
