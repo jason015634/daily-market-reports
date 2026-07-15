@@ -1,0 +1,111 @@
+{
+  "asof": "2026-07-15",
+  "generated_at": "2026-07-15T09:55:18",
+  "source": "FinanceDataReader (KRX / Stooq)",
+  "note": "검증된 실측 시세. 브리핑 작성 시 이 수치를 변형하지 말 것.",
+  "indices": [
+    {
+      "name": "코스피",
+      "symbol": "KS11",
+      "unit": "pt",
+      "date": "2026-07-14",
+      "close": 6856.83,
+      "status": "ok",
+      "prev_close": 6806.93,
+      "change": 49.9,
+      "change_pct": 0.73
+    },
+    {
+      "name": "코스닥",
+      "symbol": "KQ11",
+      "unit": "pt",
+      "date": "2026-07-14",
+      "close": 783.98,
+      "status": "ok",
+      "prev_close": 799.36,
+      "change": -15.38,
+      "change_pct": -1.92
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "US500",
+      "unit": "pt",
+      "date": "2026-07-14",
+      "close": 7543.59,
+      "status": "ok",
+      "prev_close": 7515.34,
+      "change": 28.25,
+      "change_pct": 0.38
+    },
+    {
+      "name": "나스닥",
+      "symbol": "IXIC",
+      "unit": "pt",
+      "date": "2026-07-14",
+      "close": 26107.01,
+      "status": "ok",
+      "prev_close": 25873.18,
+      "change": 233.83,
+      "change_pct": 0.9
+    },
+    {
+      "name": "다우존스",
+      "symbol": "DJI",
+      "unit": "pt",
+      "date": "2026-07-14",
+      "close": 52508.27,
+      "status": "ok",
+      "prev_close": 52498.64,
+      "change": 9.63,
+      "change_pct": 0.02
+    }
+  ],
+  "fx": [
+    {
+      "name": "원/달러",
+      "symbol": "USD/KRW",
+      "unit": "원",
+      "date": "2026-07-15",
+      "close": 1488.68,
+      "status": "ok",
+      "prev_close": 1497.7,
+      "change": -9.02,
+      "change_pct": -0.6
+    }
+  ],
+  "stocks": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930",
+      "unit": "원",
+      "date": "2026-07-15",
+      "close": 277500.0,
+      "status": "ok",
+      "prev_close": 263000.0,
+      "change": 14500.0,
+      "change_pct": 5.51
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660",
+      "unit": "원",
+      "date": "2026-07-15",
+      "close": 2140000.0,
+      "status": "ok",
+      "prev_close": 1913000.0,
+      "change": 227000.0,
+      "change_pct": 11.87
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220",
+      "unit": "원",
+      "date": "2026-07-15",
+      "close": 336500.0,
+      "status": "ok",
+      "prev_close": 322000.0,
+      "change": 14500.0,
+      "change_pct": 4.5
+    }
+  ]
+}
